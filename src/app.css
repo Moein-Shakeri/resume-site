@@ -1,0 +1,16 @@
+@font-face {
+    font-family: Vazirmatn;
+    src: url("fonts/Vazirmatn[wght].woff2") format("woff2");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+    footer{
+      color: #a3a3a3;
+    }
+  
+*{
+    font-family: Vazirmatn;
+    margin: 0px;
+    padding: 0px;
+}
